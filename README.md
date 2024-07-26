@@ -1,4 +1,4 @@
-- 👋 Hi, I’m kartikey but ilike to be called kartik :)
+- 👋 Hi, I’m kartikey but i like to be called kartik :)
 - 👀 I love to explore tech trends,different types of tech.
 - 🌱 I’m currently learning about web3, Data science...etc:)
 - 💞️ I’m looking to collaborate on Dapps, web dev
